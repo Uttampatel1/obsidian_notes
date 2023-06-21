@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"file","file":"Why are neural networks important?.md","id":"9f934abb51411cb8","x":-560,"y":396,"width":380,"height":204,"color":"5"},
+		{"type":"text","text":"this is my root node","id":"2611f1f80a35ea17","x":-140,"y":140,"width":250,"height":60,"color":"1"},
+		{"type":"file","file":"Why are neural networks important?.md","id":"c1f6cefa84950475","x":260,"y":420,"width":380,"height":280,"color":"5"},
+		{"type":"text","text":"","id":"a5c38fd17901e942","x":405,"y":-71,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"this is second node","id":"8f84077ed8a9e9db","x":-240,"y":500,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"895441b3a509f686","fromNode":"2611f1f80a35ea17","fromSide":"top","toNode":"8f84077ed8a9e9db","toSide":"bottom"},
+		{"id":"ce3d5dd2a66b33eb","fromNode":"2611f1f80a35ea17","fromSide":"right","toNode":"c1f6cefa84950475","toSide":"left"},
+		{"id":"09f1a89b3e6abc26","fromNode":"8f84077ed8a9e9db","fromSide":"right","toNode":"9f934abb51411cb8","toSide":"left"},
+		{"id":"ce888d1ac194640a","fromNode":"2611f1f80a35ea17","fromSide":"right","toNode":"a5c38fd17901e942","toSide":"left"}
+	]
+}
