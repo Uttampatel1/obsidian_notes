@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8defd3a94cb9078",
+        "id": "67edac84898d4bca",
         "type": "tabs",
         "children": [
           {
-            "id": "af801f3585f0f08e",
+            "id": "6ad5d7e30f78a902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Stock Market/Risk Assistant  📊.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Stock Market/Risk Assistant  📊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Stock Market/Risk Assistant  📊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Stock Market/Risk Assistant  📊.md"
               }
             }
           },
@@ -175,15 +175,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af801f3585f0f08e",
+  "active": "6ad5d7e30f78a902",
   "lastOpenFiles": [
+    "Stock Market/Risk Assistant  ideas📊.md",
+    "Stock Market/Risk Assistant  📊.md",
+    "README.md",
     "Untitled.md",
     "2023-07-06.md",
-    "Stock Market/Risk Assistant  📊.md",
     "Excalidraw/Drawing 2023-07-06 12.17.37.excalidraw.md",
     "Excalidraw/Drawing 2023-07-06 12.17.44.excalidraw.md",
     "Excalidraw",
-    "Stock Market/Risk Assistant  ideas📊.md",
     "Untitled 1.md",
     "Stock Market/Stock  updates API 📚.md",
     "Stock Market/Stock Price Prediction.md",
@@ -192,7 +193,6 @@
     "Why are neural networks important_.md",
     "Recommendation System Algorithms.md",
     "Recommendation Techniques.md",
-    "README.md",
     "Untitled.canvas",
     "djc.md",
     "Stock Market/stock market related project ideas 📈.md",
