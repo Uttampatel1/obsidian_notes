@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3672772bc9335822",
+        "id": "7c930918dc16a0c8",
         "type": "tabs",
         "children": [
           {
-            "id": "f894a75f6a582dbb",
+            "id": "9285826cedf55252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stock Market/Risk Assistant  📊.md",
+                "file": "Stock Market/Long term investment 🌱.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 298.5
   },
   "right": {
     "id": "a15d37d1910bd1ab",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stock Market/Risk Assistant  📊.md",
+                "file": "Stock Market/Long term investment 🌱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stock Market/Risk Assistant  📊.md",
+                "file": "Stock Market/Long term investment 🌱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stock Market/Risk Assistant  📊.md"
+                "file": "Stock Market/Long term investment 🌱.md"
               }
             }
           },
@@ -175,15 +175,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f894a75f6a582dbb",
+  "active": "9285826cedf55252",
   "lastOpenFiles": [
+    "Stock Market/Long term investment 🌱.md",
+    "How to Deal with Categorical Data.md",
+    "Recommendation Techniques.md",
+    "Recommendation System Algorithms.md",
+    "Open CV/image to text.md",
+    "Drawing 2023-07-10 11.19.22.excalidraw.md",
+    "TO DO List.md",
+    "Untitled.canvas",
+    "Stock Market/RiskMaster.md",
+    "Excalidraw/Drawing 2023-07-10 11.06.23.excalidraw.md",
+    "Stock Market/🧐 Risk Assistant  ideas📊.md",
+    "Stock Market/Risk Assistant  📊.md",
+    "Stock Market/💰 Stock buying strategy.md",
+    "Cheque Detection.md",
+    "Stock Market/Problem in stock market trading systems.md",
     "AI/What Is A Neural Network.md",
     "AI/Why are neural networks important_.md",
-    "Recommendation Techniques.md",
     "Untitled.md",
-    "Recommendation System Algorithms.md",
-    "image to text.md",
-    "How to Deal with Categorical Data.md",
     "README.md",
     "Projects For Resume.md",
     "Open CV/OCR with PaddleOCR (PP-OCR).md",
@@ -197,21 +208,10 @@
     "images/categorical Encoding Cheat-seet.png",
     "images",
     "Attributes of a NumPy Array.md",
-    "Stock Market/Risk Assistant  📊.md",
     "2023-07-06.md",
     "Excalidraw/Drawing 2023-07-06 12.17.37.excalidraw.md",
     "Excalidraw/Drawing 2023-07-06 12.17.44.excalidraw.md",
-    "Stock Market/Risk Assistant  ideas📊.md",
     "Excalidraw",
-    "Untitled 1.md",
-    "Stock Market/Stock  updates API 📚.md",
-    "Stock Market/Stock Price Prediction.md",
-    "Untitled.canvas",
-    "djc.md",
-    "Stock Market/stock market related project ideas 📈.md",
-    "Stock Market/Problem in stock market trading systems.md",
-    "Stock Market/Problems in the Stock Market system.md",
-    "Stock Market/High-Frequency Trading Simulator.md",
     "Stock Market",
     "images/PaddleOCR ARC.png",
     "images/categorical_nomi_ordi.png"
