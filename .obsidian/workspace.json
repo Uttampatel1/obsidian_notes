@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "a15d37d1910bd1ab",
@@ -175,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3e0da3e0f964605",
+  "active": "2e30be3d16a14e18",
   "lastOpenFiles": [
     "Stock Market 💹/Analyse Company Fundamentals 🔎💡.md",
     "Stock Market 💹/Performance Factors 📈.md",
