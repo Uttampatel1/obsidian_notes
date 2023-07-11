@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f49af86234f38769",
+        "id": "58804f941dff3bdc",
         "type": "tabs",
         "children": [
           {
-            "id": "0d71f5ad0cf5d94c",
+            "id": "d3e0da3e0f964605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stock Market 💹/Analyse Company Fundamentals 🔎💡.md",
+                "file": "Stock Market 💹/Performance Factors 📈.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stock Market 💹/Analyse Company Fundamentals 🔎💡.md",
+                "file": "Stock Market 💹/Performance Factors 📈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stock Market 💹/Analyse Company Fundamentals 🔎💡.md",
+                "file": "Stock Market 💹/Performance Factors 📈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stock Market 💹/Analyse Company Fundamentals 🔎💡.md"
+                "file": "Stock Market 💹/Performance Factors 📈.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d71f5ad0cf5d94c",
+  "active": "d3e0da3e0f964605",
   "lastOpenFiles": [
-    "Stock Market 💹/Trading Bot.md",
     "Stock Market 💹/Analyse Company Fundamentals 🔎💡.md",
+    "Stock Market 💹/Performance Factors 📈.md",
+    "Stock Market 💹/Trading Bot.md",
     "Stock Market 💹/Long term investment 🌱.md",
     "Stock Market 💹/Risk Assistant  📊.md",
     "Stock Market 💹/Risk Assistant  ideas 🧐📊.md",
@@ -208,7 +209,6 @@
     "AI",
     "Projects/Fish Projects",
     "Projects",
-    "Projects/Fish Projects/Fish Datasets Expline.md",
     "images/categorical Encoding Cheat-seet.png",
     "images",
     "Excalidraw",
