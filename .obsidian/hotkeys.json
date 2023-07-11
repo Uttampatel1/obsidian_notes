@@ -15,5 +15,23 @@
       ],
       "key": "L"
     }
+  ],
+  "dataview:dataview-drop-cache": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "dataview:dataview-force-refresh-views": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }

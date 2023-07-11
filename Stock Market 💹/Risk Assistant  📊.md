@@ -1,4 +1,4 @@
-[[🧐 Risk Assistant  ideas📊]]
+[[Risk Assistant  ideas 🧐📊]]
 
 # Calculate Risk for Stock
 
